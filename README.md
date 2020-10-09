@@ -6,7 +6,7 @@ Visit our website at http://anaadyanta.org/
 [![Screenshot 1](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.anaadyanta.ay18)
 
 
-Source code and bug tracking repository for the Anaadyanta 2018 app - [Sources Will Be Released after the fest]
+Source code and bug tracking repository for the Anaadyanta 2018 app 
 
 # Screenshots:
 
